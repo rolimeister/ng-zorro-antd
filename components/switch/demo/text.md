@@ -1,7 +1,7 @@
 ---
 order: 2
 title:
-  zh-CN: 文字和图标
+  zh-CN: zzzzzz
   en-US: Text & icon
 ---
 
